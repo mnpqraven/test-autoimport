@@ -1,0 +1,8 @@
+{
+    "name": "math-helpers",
+    "main": "src/index.tsx",
+    "types": "src/index.tsx",
+    "dependencies": {
+        "typescript": "latest"
+    }
+}
